@@ -1,0 +1,26 @@
+export const Colors = {
+  background: '#000000',
+  surface: '#16181C',
+  card: '#1A1D23',
+  border: '#2F3336',
+  gradient: { top: '#FF6B35', middle: '#FFB347', bottom: '#FFD700' },
+  text: { primary: '#E7E9EA', secondary: '#71767B', muted: '#55595E' },
+  glow: { orange: 'rgba(255, 107, 53, 0.3)', peach: 'rgba(255, 179, 71, 0.25)', yellow: 'rgba(255, 215, 0, 0.2)' },
+  accent: '#FF6B35',
+  like: '#E0245E',
+  echo: '#FFB347',
+  blue: '#1D9BF0',
+};
+export const LightColors = {
+  background: '#FFFFFF',
+  surface: '#F7F9F9',
+  card: '#FFFFFF',
+  border: '#EFF3F4',
+  gradient: { top: '#FF6B35', middle: '#FFB347', bottom: '#FFD700' },
+  text: { primary: '#0F1419', secondary: '#536471', muted: '#8B98A5' },
+  glow: { orange: 'rgba(255, 107, 53, 0.2)', peach: 'rgba(255, 179, 71, 0.15)', yellow: 'rgba(255, 215, 0, 0.1)' },
+  accent: '#FF6B35',
+  like: '#E0245E',
+  echo: '#FFB347',
+  blue: '#1D9BF0',
+};
