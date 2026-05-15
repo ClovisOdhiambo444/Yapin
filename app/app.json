@@ -25,6 +25,18 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a00979b7-bc5c-4dc2-938c-3c442d9d730c"
+      }
+    },
+    "owner": "clovisodhiambo",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a00979b7-bc5c-4dc2-938c-3c442d9d730c"
+    }
   }
 }
